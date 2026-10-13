@@ -10,16 +10,16 @@
 
 Windows x64 预览版请下载 `YierDesktopPet-win-Setup.exe`，双击安装。已通过 Windows CI 渲染、安装和应用内升级测试；真实设备的多屏与缩放适配仍需进一步验证。安装包尚未进行发行者签名。目标受阻提醒目前提供本地提醒文件接口，未附带 Windows 自动监听程序。
 
-- [Mac 直接下载](https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.4.0/YierDesktopPet-macOS-arm64.zip)
-- [Windows 直接下载](https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.4.0/YierDesktopPet-win-Setup.exe)
+- [Mac 直接下载](https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.5.0/YierDesktopPet-macOS-arm64.zip)
+- [Windows 直接下载](https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.5.0/YierDesktopPet-win-Setup.exe)
 
-当前为 Version 2：首次启动选择一二或布布，之后可在「设置 → 桌宠角色」切换，各自保留衣服与状态。布布有十套服装和 130 条情境语音。最小尺寸已支持 35%。
+当前为 Version 2：首次启动选择一二或布布，之后可在「设置 → 桌宠角色」切换，各自保留衣服与状态。v0.5.0 新增 24 套透明动态状态：11 套布布、7 套一二、6 套双人情景；两只熊各有 130 条情境语音。布布已去掉公主裙、女仆装和花仙子装。最小尺寸已支持 35%。
 
 ## 操作
 
 - 拖动小熊：移动位置，允许部分移出屏幕。
 - 单击小熊：播放当前情境语音。
-- 双击小熊：随机换装。
+- 双击小熊：随机换服装或动态状态，避免重复当前状态。六种双人情景不受所选主角色限制。
 - 右键小熊：打开小屋，点击家具开始互动，小屋随即隐藏。
 - 菜单栏小熊爪：设置、隐藏、回到中央和退出。
 

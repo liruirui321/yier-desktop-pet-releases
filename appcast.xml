@@ -3,14 +3,14 @@
     <channel>
         <title>Yier Desktop Pet</title>
         <item>
-            <title>0.4.0</title>
-            <pubDate>Wed, 14 Oct 2026 00:28:49 +0800</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <title>0.5.0</title>
+            <pubDate>Wed, 14 Oct 2026 03:07:00 +0800</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>Version 2：新增布布角色选择、十套服装、生活场景与 130 条情境语音。可随时切换角色，保留各自状态和共用设置。</p>]]></description>
-            <enclosure url="https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.4.0/YierDesktopPet-macOS-arm64.zip" length="125784639" type="application/octet-stream" sparkle:edSignature="fUYcLtPMuaezft7wuF3ajvOllQvqVk6sHVPm3KK9ZjAUJK3XLjDyVxPBms5NjcQxDN+1FnY3/1yMz8QzHfOsDA=="/>
+            <description><![CDATA[<p>新增24套透明动态状态，包括布布总、亲亲、吃包子等；六种双人情景对一二和布布都开放。双击随机换服装或状态，移除布布公主裙、女仆装和花仙子装。</p>]]></description>
+            <enclosure url="https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.5.0/YierDesktopPet-macOS-arm64.zip" length="133716100" type="application/octet-stream" sparkle:edSignature="fuJJDJHVQNhu+Kk5E8GRCkS8Wp7/NZjdZAQzte1EDxoO1hF//F6tlDBKkkrCRqzYK4vhgQnbaCw7N2TcOna9Cw=="/>
         </item>
     </channel>
 </rss>
