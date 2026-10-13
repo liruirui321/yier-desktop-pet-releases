@@ -39,6 +39,3 @@ Windows x64 预览版请下载 `YierDesktopPet-win-Setup.exe`，双击安装。�
 
 非官方同人项目；角色与音色等素材权利归相应权利人。使用 AI 辅助开发与制作动画素材。
 
-## Demo
-
-[Watch or download the 30-second demo](https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.3.0/YierDesktopPet-30s.mp4). Generated from the actual application animation renderer; not a full desktop screen recording.
