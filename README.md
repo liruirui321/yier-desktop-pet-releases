@@ -1,6 +1,6 @@
 # Yier Desktop Pet
 
-一只住在桌面上的白色小熊。可以拖动、随机换装、点击说话，右键打开小屋，通过家具吃饭、洗澡、工作、做饭、看电视、睡觉和找布布玩。
+让一二或布布住在你的桌面上。可以拖动、随机换装、点击说话，右键打开小屋，通过家具吃饭、洗澡、工作、做饭、看电视、睡觉和找布布玩。
 
 ## 下载
 
@@ -10,22 +10,22 @@
 
 Windows x64 预览版请下载 `YierDesktopPet-win-Setup.exe`，双击安装。已通过 Windows CI 渲染、安装和应用内升级测试；真实设备的多屏与缩放适配仍需进一步验证。安装包尚未进行发行者签名。目标受阻提醒目前提供本地提醒文件接口，未附带 Windows 自动监听程序。
 
-- [Mac 直接下载](https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.3.0/YierDesktopPet-macOS-arm64.zip)
-- [Windows 直接下载](https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.3.0/YierDesktopPet-win-Setup.exe)
+- [Mac 直接下载](https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.4.0/YierDesktopPet-macOS-arm64.zip)
+- [Windows 直接下载](https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.4.0/YierDesktopPet-win-Setup.exe)
 
-当前为 Version 1：只可选择一二作为桌宠；Version 2 将加入布布角色选择。最小尺寸已支持 35%。
+当前为 Version 2：首次启动选择一二或布布，之后可在「设置 → 桌宠角色」切换，各自保留衣服与状态。布布有十套服装和 130 条情境语音。最小尺寸已支持 35%。
 
 ## 操作
 
-- 拖动一二：移动位置，允许部分移出屏幕。
-- 单击一二：播放当前情境语音。
-- 双击一二：随机换装。
-- 右键一二：打开小屋，点击家具开始互动，小屋随即隐藏。
+- 拖动小熊：移动位置，允许部分移出屏幕。
+- 单击小熊：播放当前情境语音。
+- 双击小熊：随机换装。
+- 右键小熊：打开小屋，点击家具开始互动，小屋随即隐藏。
 - 菜单栏小熊爪：设置、隐藏、回到中央和退出。
 
 日常互动离线运行。v0.3.0 起可在「设置 → 检查更新」里直接下载、验证并安装新版，完成后重新打开；可关闭每天一次的自动检查。v0.2.2 及更早版本需要先手动安装一次新版。
 
-设置中的「布布唤醒」可独立关闭目标受阻/待回复提醒，关闭后不出现布布唤醒动画和语音。开启时，夜间安静仍在 00:00–08:00 生效。普通找布布玩不受影响。目标受阻提醒需要额外接入本地提醒桥接，普通安装不会读取你的 AI 会话。
+设置中的「布布唤醒 / 一二唤醒」可独立关闭目标受阻/待回复提醒，关闭后不出现伙伴提醒动画和语音。开启时，夜间安静仍在 00:00–08:00 生效。普通找布布玩不受影响。目标受阻提醒需要额外接入本地提醒桥接，普通安装不会读取你的 AI 会话。
 
 ![躺着玩手机](Media/Phone.gif)
 ![举杯喝可乐](Media/Cola.gif)
