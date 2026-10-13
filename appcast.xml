@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Yier Desktop Pet</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Tue, 13 Oct 2026 14:08:02 +0800</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>一二桌宠 0.3.0</h2><ul><li>新增应用内更新：下载、验证签名、安装并重新打开一二，无需前往网页重复安装。</li><li>设置中可关闭自动检查更新，断网仍可正常使用。</li><li>新增独立的布布唤醒开关，与夜间安静配合使用。</li><li>新增反馈与建议入口。</li><li>十种形象支持完整的喝可乐、吃鸡爪和躺着玩手机动作。</li></ul>
+]]></description>
+            <enclosure url="https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.3.0/YierDesktopPet-macOS-arm64.zip" length="68686398" type="application/octet-stream" sparkle:edSignature="YvS3cELBXHtMnXS+jh9E/eMjzL8PwVOekOrIOfM+hsEJStOCY5lc+XBKFD9ScUF/ljbJcxnfjc8pzpZQForgCg=="/>
+        </item>
+    </channel>
+</rss>

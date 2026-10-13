@@ -1,4 +1,4 @@
-# 一二桌宠
+# Yier Desktop Pet
 
 一只住在桌面上的白色小熊。可以拖动、随机换装、点击说话，右键打开小屋，通过家具吃饭、洗澡、工作、做饭、看电视、睡觉和找布布玩。
 
@@ -6,9 +6,14 @@
 
 [下载安装包](https://github.com/liruirui321/yier-desktop-pet-releases/releases/latest)
 
-目前稳定版支持 Apple Silicon（M 系列）Mac，macOS 13 或更新版本。解压 `YierDesktopPet-macOS-arm64.zip`，把「一二桌宠.app」拖入应用程序后打开。当前采用本地签名，尚未 Apple 公证；如被系统拦截，请从系统设置的「隐私与安全性」允许打开，无需关闭系统安全功能。
+目前稳定版支持 Apple Silicon（M 系列）Mac，macOS 13 或更新版本。解压 `YierDesktopPet-macOS-arm64.zip`，把「Yier Desktop Pet.app」拖入应用程序后打开。当前采用本地签名，尚未 Apple 公证；如被系统拦截，请从系统设置的「隐私与安全性」允许打开，无需关闭系统安全功能。
 
-Windows 版正在适配，目前请勿将 Mac 安装包用于 Windows。
+Windows x64 预览版请下载 `YierDesktopPet-win-Setup.exe`，双击安装。已通过 Windows CI 渲染、安装和应用内升级测试；真实设备的多屏与缩放适配仍需进一步验证。安装包尚未进行发行者签名。目标受阻提醒目前提供本地提醒文件接口，未附带 Windows 自动监听程序。
+
+- [Mac 直接下载](https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.3.0/YierDesktopPet-macOS-arm64.zip)
+- [Windows 直接下载](https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.3.0/YierDesktopPet-win-Setup.exe)
+
+当前为 Version 1：只可选择一二作为桌宠；Version 2 将加入布布角色选择。最小尺寸已支持 35%。
 
 ## 操作
 
@@ -18,7 +23,13 @@ Windows 版正在适配，目前请勿将 Mac 安装包用于 Windows。
 - 右键一二：打开小屋，点击家具开始互动，小屋随即隐藏。
 - 菜单栏小熊爪：设置、隐藏、回到中央和退出。
 
-日常互动离线运行。v0.2.2 尚无更新检查，请通过本页面下载新版。
+日常互动离线运行。v0.3.0 起可在「设置 → 检查更新」里直接下载、验证并安装新版，完成后重新打开；可关闭每天一次的自动检查。v0.2.2 及更早版本需要先手动安装一次新版。
+
+设置中的「布布唤醒」可独立关闭目标受阻/待回复提醒，关闭后不出现布布唤醒动画和语音。开启时，夜间安静仍在 00:00–08:00 生效。普通找布布玩不受影响。目标受阻提醒需要额外接入本地提醒桥接，普通安装不会读取你的 AI 会话。
+
+![躺着玩手机](Media/Phone.gif)
+![举杯喝可乐](Media/Cola.gif)
+![吃鸡爪](Media/Snack.gif)
 
 ## 使用意见与问题
 
@@ -27,3 +38,7 @@ Windows 版正在适配，目前请勿将 Mac 安装包用于 Windows。
 本仓库只提供安装包、使用说明和反馈入口，不包含应用源代码。Release 页面自动生成的 Source code 压缩包仅含本仓库说明文件，请下载命名为 YierDesktopPet 的应用安装包。
 
 非官方同人项目；角色与音色等素材权利归相应权利人。使用 AI 辅助开发与制作动画素材。
+
+## Demo
+
+[Watch or download the 30-second demo](https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.3.0/YierDesktopPet-30s.mp4). Generated from the actual application animation renderer; not a full desktop screen recording.
