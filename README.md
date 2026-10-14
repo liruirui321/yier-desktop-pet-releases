@@ -10,10 +10,10 @@
 
 Windows x64 预览版请下载 `YierDesktopPet-win-Setup.exe`，双击安装。已通过 Windows CI 渲染、安装和应用内升级测试；真实设备的多屏与缩放适配仍需进一步验证。安装包尚未进行发行者签名。目标受阻提醒目前提供本地提醒文件接口，未附带 Windows 自动监听程序。
 
-- [Mac 直接下载](https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.5.0/YierDesktopPet-macOS-arm64.zip)
+- [Mac 直接下载](https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.5.1/YierDesktopPet-macOS-arm64.zip)
 - [Windows 直接下载](https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.5.0/YierDesktopPet-win-Setup.exe)
 
-当前为 Version 2：首次启动选择一二或布布，之后可在「设置 → 桌宠角色」切换，各自保留衣服与状态。v0.5.0 新增 24 套透明动态状态：11 套布布、7 套一二、6 套双人情景；两只熊各有 130 条情境语音。布布已去掉公主裙、女仆装和花仙子装。最小尺寸已支持 35%。
+当前为 Version 2：首次启动选择一二或布布，之后可在「设置 → 桌宠角色」切换，各自保留衣服与状态。v0.5.1 新增每小时休息提醒：白天累计陪伴一小时后，一二和布布放下手机一起伸个懒腰（20 秒无声动画），可在设置中关闭。v0.5.0 新增 24 套透明动态状态：11 套布布、7 套一二、6 套双人情景；两只熊各有 130 条情境语音。布布已去掉公主裙、女仆装和花仙子装。最小尺寸已支持 35%。
 
 ## 操作
 

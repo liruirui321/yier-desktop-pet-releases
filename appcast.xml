@@ -3,14 +3,14 @@
     <channel>
         <title>Yier Desktop Pet</title>
         <item>
-            <title>0.5.0</title>
-            <pubDate>Wed, 14 Oct 2026 03:07:00 +0800</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <title>0.5.1</title>
+            <pubDate>Wed, 14 Oct 2026 17:04:41 +0800</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>新增24套透明动态状态，包括布布总、亲亲、吃包子等；六种双人情景对一二和布布都开放。双击随机换服装或状态，移除布布公主裙、女仆装和花仙子装。</p>]]></description>
-            <enclosure url="https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.5.0/YierDesktopPet-macOS-arm64.zip" length="133716100" type="application/octet-stream" sparkle:edSignature="fuJJDJHVQNhu+Kk5E8GRCkS8Wp7/NZjdZAQzte1EDxoO1hF//F6tlDBKkkrCRqzYK4vhgQnbaCw7N2TcOna9Cw=="/>
+            <description><![CDATA[<p>新增每小时休息提醒：白天陪伴一小时后，一二和布布放下手机一起伸个懒腰，20 秒无声动画，可在设置中关闭；吃饭、洗澡、睡觉、拖动或唤醒提醒期间不打扰，电脑休眠不补播。</p>]]></description>
+            <enclosure url="https://github.com/liruirui321/yier-desktop-pet-releases/releases/download/v0.5.1/YierDesktopPet-macOS-arm64.zip" length="137269785" type="application/octet-stream" sparkle:edSignature="rfplF0COATvK4yJ+FmkFZClj815+eBVvH0qdnbGsKe9c2BLqVdJdWA+HYZjnmXw+Ga6KsO+ll4M+vfkYwgBSCA=="/>
         </item>
     </channel>
 </rss>
